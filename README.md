@@ -1,1 +1,6 @@
-# losttechne.github.io
+Build
+=========================
+jekyll build
+
+
+
